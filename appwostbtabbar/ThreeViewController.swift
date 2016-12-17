@@ -2,7 +2,7 @@
 //  ThreeViewController.swift
 //  appwostbtabbar
 //
-//  Created by Min Aung Hein on 17/12/16.
+//  Created by THANT ZIN on 17/12/16.
 //  Copyright © 2016 smag. All rights reserved.
 //
 
